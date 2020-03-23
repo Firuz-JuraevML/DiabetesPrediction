@@ -9,7 +9,6 @@ Logistic Regrission (sigmoid):
 
 ------
 ### Diabetes Prediction (Linear Regression)  
-<br/>
-There, weights and bias were found using Gradient Descent optimization algorithm. At first they were selected randomly (including learning rate), then they are optimized using optimization algorithm for minimizing the cost function.    
+###### There, weights and bias were found using Gradient Descent optimization algorithm. At first they were selected randomly (including learning rate), then they are optimized using optimization algorithm for minimizing the cost function.    
 ------
 [commonlounge.com](https://www.commonlounge.com/)
